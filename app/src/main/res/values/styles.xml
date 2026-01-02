@@ -33,7 +33,7 @@
     </style>
 
     <style name="AppThemeLight" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:fontFamily">@font/ubuntu</item>
+        <!--<item name="android:fontFamily">@font/ubuntu</item>-->
         <!-- Background -->
         <item name="android:colorBackground">?attr/colorBackground</item>
         <!-- Clocks -->
@@ -52,7 +52,7 @@
     </style>
 
     <style name="AppThemeDark" parent="@style/Theme.AppCompat.NoActionBar">
-        <item name="android:fontFamily">@font/ubuntu</item>
+        <!--<item name="android:fontFamily">@font/ubuntu</item> -->
         <!-- Background -->
         <item name="android:colorBackground">?attr/colorBackground</item>
         <!-- Clocks -->
